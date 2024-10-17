@@ -1,0 +1,11 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+# Information about this website
+This wbesote was amde as an example in [P8105](http://p8105.com/) for "Making Websites". I'm making in RMD files and will use GitHub for hosting.
+
+Click [here](index.html) to go back to home.

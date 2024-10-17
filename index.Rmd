@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
@@ -12,3 +11,9 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 Sometimes I use [google](http://www.google.com/) to do data science.
 
+This is my cat Haerin.
+
+![](images/haerin.jpeg)
+<img src="images/haerin.jpeg" style = "width:75%">
+
+If you'd like to learn more about this website, visit [this page](about.html).
